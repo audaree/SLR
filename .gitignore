@@ -1,0 +1,14 @@
+# Exclude data files
+003 Tidal Readings Validated/
+10 Minutes/
+Auckland Point/
+Daily_Hi_Lo/
+data 2020-22/
+Output_data/
+plots/
+plots_old/
+*.CSV
+*.xlsx
+*.pdf
+*.docx
+
